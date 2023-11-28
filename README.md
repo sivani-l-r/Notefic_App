@@ -1,4 +1,4 @@
-# Flutter Notes App
+# Notify App 
 
 A Flutter app designed for effortless note creation, organization, and sharing.
 
@@ -24,6 +24,4 @@ In a world full of ideas, Flutter Notes App aims to provide a platform for indiv
 - **Firebase:** Powering the backend with Firebase for real-time data synchronization, user authentication, and cloud storage.
 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
