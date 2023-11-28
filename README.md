@@ -1,6 +1,6 @@
 # Notify App 
 
-A Flutter app designed for effortless note creation, organization, and sharing.
+A Flutter app for effortlessly creating, organizing, and sharing your small notes, thoughts, poems, and more.
 
 ## Features
 
