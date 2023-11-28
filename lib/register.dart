@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'main.dart';
 
-// Import Firebase packages (commented out for now)
-// import 'package:firebase/firebase_auth.dart';
-// import 'firebase_dir/toast.dart';
-// import 'firebase_dir/firebase_auth_src.dart';
-// import 'package:firebase_auth/firebase_auth.dart';
+Import Firebase packages (commented out for now)
+import 'package:firebase/firebase_auth.dart';
+import 'firebase_dir/toast.dart';
+import 'firebase_dir/firebase_auth_src.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 
 class RegisterPage extends StatefulWidget {
   @override
@@ -13,8 +13,8 @@ class RegisterPage extends StatefulWidget {
 }
 
 class _RegisterPageState extends State<RegisterPage> {
-  // Commented out Firebase authentication service instantiation
-  // final FirebaseAuthService _auth = FirebaseAuthService();
+  Commented out Firebase authentication service instantiation
+  final FirebaseAuthService _auth = FirebaseAuthService();
 
   TextEditingController _usernameController = TextEditingController();
   TextEditingController _emailController = TextEditingController();
@@ -38,22 +38,21 @@ class _RegisterPageState extends State<RegisterPage> {
     String username = _usernameController.text;
     String email = _emailController.text;
     String password = _passwordController.text;
-
-    // Commented out Firebase authentication call
-    // FirebaseAuthException? authException =
-    //     await _auth.signUpWithEmailAndPassword(email, password);
+    
+    FirebaseAuthException? authException =
+        await _auth.signUpWithEmailAndPassword(email, password);
 
     setState(() {
       isSigningUp = false;
     });
 
-    // Commented out Firebase authentication handling
-    // if (authException == null) {
-    //   showToast(message: "User is successfully created");
-    //   Navigator.pushNamed(context, "/home");
-    // } else {
-    //   showToast(message: "Some error happened: ${authException.message}");
-    // }
+   
+    if (authException == null) {
+      showToast(message: "User is successfully created");
+      Navigator.pushNamed(context, "/home");
+    } else {
+      showToast(message: "Some error happened: ${authException.message}");
+    }
   }
 
   @override
