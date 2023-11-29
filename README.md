@@ -12,9 +12,44 @@ A Flutter app for effortlessly creating, organizing, and sharing your small note
 
 - **Public Notes Feed:** Explore a dynamic feed of notes shared by other users. Discover a diverse range of content and gain inspiration from the broader community.
 
-## Motivation
+ ## App 
 
-In a world full of ideas, Flutter Notes App aims to provide a platform for individuals to express themselves through the art of note-taking. Whether it's a fleeting thought or a carefully crafted poem, this app encourages users to capture and share their moments of inspiration.
+ ### Welcome Page
+  <img src="UI/UI_One/HomePage.png" alt="Alt Text" width="300" height="550" />
+
+
+   ### Login Page
+
+  <img src="UI/UI_One/LoginPage.png" alt="Alt Text" width="300" height="550" />
+
+
+   ### Register Page 
+
+  <img src="UI/UI_One/RegisterPage.png" alt="Alt Text" width="300" height="550" />
+  
+
+ ### Home Page
+
+  <img src="UI/UI_One/HomePage.png" alt="Alt Text" width="300" height="550" />
+
+  ### Search Page
+
+  <img src="UI/UI_One/SearchPage.png" alt="Alt Text" width="300" height="550" />
+
+   ### Create Page
+
+  <img src="UI/UI_One/CreatePage.png" alt="Alt Text" width="300" height="550" />
+
+   ### Profile Page
+
+  <img src="UI/UI_One/ProfilePage.png" alt="Alt Text" width="300" height="550" />
+
+
+
+
+  ## Motivation
+
+In a world full of ideas, Notific App aims to provide a platform for individuals to express themselves through the art of note-taking. Whether it's a fleeting thought or a carefully crafted poem, this app encourages users to capture and share their moments of inspiration.
 
 
 ## Technologies Used
