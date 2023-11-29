@@ -1,4 +1,4 @@
-# Notify App 
+# Notific App 
 
 A Flutter app for effortlessly creating, organizing, and sharing your small notes, thoughts, poems, and more.
 
