@@ -1,4 +1,4 @@
-# Notific App 
+# Notefic App 
 
 A Flutter app for effortlessly creating, organizing, and sharing your small notes, thoughts, poems, and more.
 
@@ -49,7 +49,7 @@ A Flutter app for effortlessly creating, organizing, and sharing your small note
 
   ## Motivation
 
-In a world full of ideas, Notific App aims to provide a platform for individuals to express themselves through the art of note-taking. Whether it's a fleeting thought or a carefully crafted poem, this app encourages users to capture and share their moments of inspiration.
+In a world full of ideas, Notefic App aims to provide a platform for individuals to express themselves through the art of note-taking. Whether it's a fleeting thought or a carefully crafted poem, this app encourages users to capture and share their moments of inspiration.
 
 
 ## Technologies Used
