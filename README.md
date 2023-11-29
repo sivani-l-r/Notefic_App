@@ -25,7 +25,7 @@ A Flutter app for effortlessly creating, organizing, and sharing your small note
 
    ### Register Page 
 
-  <img src="UI/UI_One/RegisterPage.png" alt="Alt Text" width="300" height="550" />
+  <img src="UI/UI_One/RegistrerPage.png" alt="Alt Text" width="300" height="550" />
   
 
  ### Home Page
